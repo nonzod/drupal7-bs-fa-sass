@@ -1,0 +1,31 @@
+{
+  "name": "semm_theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tema Drupal 7 per SEMM",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drupal",
+    "bootstrap"
+  ],
+  "author": "Digisin <info@digisin.it>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-bower": "0.0.10",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-combine-mq": "^0.4.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-strip-debug": "^1.0.2",
+    "gulp-uglify": "^1.4.2",
+    "main-bower-files": "^2.11.1"
+  }
+}
