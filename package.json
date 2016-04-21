@@ -1,8 +1,7 @@
 {
-  "name": "semm_theme",
+  "name": "drupal7-bs-fa-sass",
   "version": "1.0.0",
-  "private": true,
-  "description": "Tema Drupal 7 per SEMM",
+  "description": "Ambiente base per Bootstrap + Fontawesome",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +10,12 @@
     "drupal",
     "bootstrap"
   ],
-  "author": "Digisin <info@digisin.it>",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nonzod/drupal7-bs-fa-sass.git"
+  },
+  "author": "Nicola Tomassoni <nicola@digisin.it>",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
