@@ -10,7 +10,7 @@ il browser utilizzerà solo i files in *public*!
 Per installare tutti i moduli node necessari
 
 ```
-npm install --dev
+npm install
 ```
 
 Per scaricare Bootstrap e Fontawesome eseguire il task *default*
